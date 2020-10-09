@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\tweet",
+    "\\tweet\\templates",
+    "\\tweet\\templates\\pages",
+    "\\tweet\\tweet",
+    "\\tweet\\tweetme2-web",
+    "\\tweet\\tweetme2-web\\src",
+    "\\tweet\\tweetme2-web\\src\\lookup",
+    "\\tweet\\tweetme2-web\\src\\tweets"
+  ],
+  "SelectedNode": "\\tweet\\tweetme2-web\\src\\lookup\\components.js",
+  "PreviewInSolutionExplorer": true
+}

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-static-root",
+      "appliesTo": "tweet/static-root/",
+      "type": "launch"
+    }
+  ]
+}
